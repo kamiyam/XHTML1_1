@@ -1,0 +1,21 @@
+div#wrapper {
+	padding: 0px;
+	width: 960px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-right: auto;
+	margin-left: auto;
+	text-align:left;
+}
+div#header {
+	margin: 0px;
+	padding: 0px;
+}
+div#content {
+	margin: 0px;
+	padding: 0px;
+}
+div#footer {
+	margin: 0px;
+	padding: 0px;
+}
